@@ -1,0 +1,1 @@
+docker kill receipt-processor-backend && docker rm receipt-processor-backend 
